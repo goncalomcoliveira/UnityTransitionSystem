@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04faba9b48e34902b3971f992fa60d4c, type: 3}
+  m_Name: DefaultTransitionLibrary
+  m_EditorClassIdentifier: Assembly-CSharp::TransitionLibrary
+  transitions:
+  - {fileID: 11400000, guid: 9e8bca17193e96d42b0e5a1cd06172ca, type: 2}
+  - {fileID: 11400000, guid: 8ba20707d6e3bc040b9e973f20822d15, type: 2}
+  - {fileID: 11400000, guid: 3c93f0ec75a75864b82fadeb8f3be58c, type: 2}
+  - {fileID: 11400000, guid: 193f4d18ca85993448caa34b3ca49777, type: 2}
+  - {fileID: 11400000, guid: 611167a5ac084bb4c82347e4936c6716, type: 2}
+  - {fileID: 11400000, guid: 0d356583f0bbcf948931dab4f9efda0b, type: 2}
+  - {fileID: 11400000, guid: 0488b1528ff1d2f4693e3fcac422766b, type: 2}
+  - {fileID: 11400000, guid: b4858b0a1fb68e84ebf8ef139eaebc5d, type: 2}
+  - {fileID: 11400000, guid: e55296fc37f5b6d47bc8abe0be94da47, type: 2}
+  - {fileID: 11400000, guid: 110d140cc8456a4498a28a5fa2f54766, type: 2}

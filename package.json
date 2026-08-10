@@ -1,0 +1,20 @@
+{
+  "name": "com.goncalomcoliveira.transition-system",
+  "version": "1.0.0",
+  "displayName": "Transition System",
+  "description": "A reusable transition system system for Unity projects.",
+  "unity": "6000.3",
+  "documentationUrl": "https://github.com/goncalomcoliveira/UnityTransitionSystem#readme",
+  "author": {
+    "name": "Gonçalo Oliveira",
+    "email": "goncalo.oliveira.creative@gmail.com",
+    "url": "https://github.com/goncalomcoliveira"
+  },
+  "samples": [
+    {
+      "displayName": "Transition System Example",
+      "description": "Example scene demonstrating the Transition system.",
+      "path": "Samples~/Example"
+    }
+  ]
+}
